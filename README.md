@@ -2,6 +2,7 @@
 
 *   414 - Machined Surfaces
 *   458 - The Decoder
+*   492 - Pig-Latin
 *   494 - Kindergarten Counting Game
 *  1230 - MODEX
 * 10055 - Hashmat the Brave Warrior
